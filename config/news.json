@@ -1,0 +1,45 @@
+{
+    "news":
+    [
+        {
+            "titel": "Met één pas naar Werchter, Graspop en 90 andere grote festivals, zelfs als ze uitverkocht zijn.",
+            "id": 0,
+            "datum": "DATE: 19/05/2017",
+            "categorieen": ["Festival","Music","Live Nation", "Tickets"],
+            "auteur": "MICK VAN LOON",
+            "samenvatting": "• Live Nation - de grootste concertorganisator ter wereld - brengt maandag het Festival Passport op de markt. Dat is een pas waarmee je wereldwijd naar de ongeveer negentig festivals kan die het bedrijf organiseert, zelfs als die uitverkocht zijn.",
+            "body": "<p>Op de site van het Festival Passport staat geen prijs genoemd, maar hij zou iets van een 750 euro gaan kosten. Als je er een koopt, mag je altijd naar binnen bij de meer dan 90 festivals, ook als ze uitverkocht zijn. In België kun je er onder meer mee naar Rock Werchter, Graspop en TW Classic. Maar ook internationale kleppers zoals Rock Am Ring en Rock Am Park, Download, Leeds en Reading en de Lollapalooza-festivals in Parijs en Berlijn zijn er bij. </p><p>Je moet wel twee weken op voorhand laten weten of je naar een festival gaat en daar wil kamperen. Van deze eerste versie van het Festival Passport worden er slechts 1.000 verkocht.</p>",
+            "afbeelding": "one.jpeg"
+        },
+        {
+            "titel": "Pukkelpop doet het met twee podia minder.",
+            "id": 1,
+            "datum": "DATE: 10/05/2017",
+            "categorieen": ["Festival","Pukkelpop", "Podium"],
+            "auteur": "GUY STEVENS",
+            "samenvatting": "• Opvallende nieuwigheid op Pukkelpop dit jaar: op de festivalweide is geen plaats meer voor de Wablief?!-tent en The Shelter. 'We proberen daardoor nog scherper te programmeren', zegt organisator Chokri Mahassine.",
+            "body": "<p>De festivalweide van Pukkelpop telt komende zomer acht podia. Dat zijn er twee minder dan vorig jaar, toen het festival in Kiewit uitbreidde met Booth en Lift. 'Het experiment van vorig jaar was succesvol. Beide podia werden bijzonder goed ontvangen en dit jaar verder verfijnd', klinkt het in een persbericht.</p><p>'In de Booth kun je opnieuw terecht voor de meest beloftevolle dj’s uit binnen- en buitenland. De Lift krijgt een fikse upgrade en heeft elke festivaldag een ander muziekgenre in petto. Urban op donderdag, pop-rock op vrijdag en steviger werk op zaterdag.'</p><p>Die aanpassingen aan de twee podia hebben als gevolg dat er twee podia verdwijnen. Van de Wablief?!-tent, waar elk jaar vooral Belgische artiesten te bekijken en beluisteren waren, en The Shelter - de referentie voor het hardere werk - zal dit jaar geen sprake zijn.</p><p>'Belgische artiesten, die vroeger steevast in de Wablief werden geprogrammeerd, krijgen nu de kans om in de Lift, Club, Marquee of andere Pukkelpoppodia te spelen. Ook artiesten die enkel in aanmerking kwamen voor The Shelter worden geïntegreerd in algemene muziekprogrammatie. Op zaterdag kiest de Marquee zelfs uitgesproken voor stevige gitaren en strakke riffs.'</p><p>Pukkelpop-organisator Chokri Mahassine zegt dat alle artiesten op deze manier meer tijd en meer ruimte krijgen om in de allerbeste omstandigheden een show te spelen. 'We proberen nog scherper te programmeren. Elke artiest op de juiste plaats en binnen de juiste schaalgrootte.'</p>",
+            "afbeelding": "three.jpg"
+        },
+        {
+            "titel": "Emma Bale, Boef en The Van Jets op Pukkelpop.",
+            "id": 2,
+            "datum": "DATE: 03/05/2017",
+            "categorieen": ["Festival","Pukkelpop", "Artiesten"],
+            "auteur": "JOLIEN BOECKX",
+            "samenvatting": "• Pukkelpop heeft een nieuwe lading van 29 artiesten aan de affiche toegevoegd. Met daarin een rijtje Belgische livetoppers, zoals Emma Bale, The Van Jets, Vuurwerk en Steak Number Eight, en dj's als Faisal en James Marvel & MC Mota. De Nederlandse rapper Boef, bekend van zijn hit Habiba, treedt op de eerste dag op.",
+            "body": "<p>Verder zijn er ook de indiehelden van The Afghan Whigs, elektronisch wonderkind Mura Masa en de Amerikaanse hiphopper Russ. Alle drie hebben ze een nieuw album in de maak waarmee ze zullen uitpakken in Kiewit. Nog een veelbesproken naam is A Blaze Of Feather, de band die de Britse singer-songwriter Ben Howard tot zijn leden mag rekenen.</p><p>Staan ook op de affiche: Clark, Rachel Green en Raye. Minder goed nieuws voor de fans van Chance The Rapper: zijn Europese tour is geannuleerd, en dus ook zijn optreden op Pukkelpop. Het festival vindt plaats van 16 tot en met 19 augustus.</p>" ,
+            "afbeelding": "five.jpg"
+        },
+        {
+            "titel": "Pukkelpop strikt 2ManyDJ’s.",
+            "id": 2,
+            "datum": "DATE: 29/03/2017",
+            "categorieen": ["Festival","Pukkelpop", "Artiesten"],
+            "auteur": "NICK DE LEU",
+            "samenvatting": "• Muziekfestival Pukkelpop heeft 49 nieuwe namen aan zijn affiche toegevoegd. Onder andere 2ManyDJ’s, Ryan Adams en Sampha zakken af naar Kiewit.",
+            "body": "<p>De gebroeders Stephen en David Dewaele hebben net een nieuwe plaat uit als Soulwax, maar die stelden ze vorig jaar al voor op Pukkelpop. Dus wanneer ze op vrijdag 18/8 opnieuw naar Kiewit afzakken doen ze dat gewoon als hun dj’ende alter ego’s 2ManyDJ’s.</p><p>De Gentenaars zijn de blikvangers van een lading nieuwe namen die toegevoegd werden aan het vierdaagse festival. Zo komen ook songwriter Ryan Adams, soulzanger Sampha en rapper Stormzy nieuwe albums voorstellen.</p><p>Het contingent Belgen op de Hasseltse wei kreeg ook een boost: naast jazzsensatie Stuff. krijgen Cocaine Piss, Faces on tv, Glints, Gruppo Di Pawlowski en De Nieuwe Lichting-winnaars The Lighthouse, Kai Wén en Tamino een podium.</p><p>Pukkelpop vindt plaats van woensdag 16 augustus tot en met zaterdag 19 augustus. Eerder werden al headliners als Bastille, Chance the rapper, The XX en Elbow aangekondigd. Ruim de helft van de combitickets is inmiddels de deur uit.</p>" ,
+            "afbeelding": "four.jpg"
+        }
+    ]
+}

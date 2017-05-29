@@ -1,0 +1,13 @@
+<% include header %>
+<a href="/" class="return"> &#171; BACK TO HOME</a>
+
+<div class="container">
+  <h2> <%- item.titel %> </h2>
+  <img src="/img/<%- item.afbeelding %>" alt="<%- item.titel %>">
+  <p class="date"><%- item.datum %> <span><%- item.auteur %></span></p>
+  <p class="space bold"><%- item.samenvatting %></p>
+  <p><%- item.body %></p>
+  <hr></hr>
+</div>
+
+<% include footer %>

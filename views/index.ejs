@@ -1,0 +1,33 @@
+<% include header %>
+
+<nav class="dropdown">
+  <button class="dropbtn">Categorieën</button>
+  <div class="dropdown-content">
+    <% for (var i = 0; i < categories.length; i++) { %>
+      <a href="/categories/<%- i %>"><%- categories[i] %></a>
+    <% } %>
+  </div>
+</nav>
+
+<nav class="dropdown">
+  <button class="dropbtn">Auteurs</button>
+  <div class="dropdown-content">
+    <% for (var i = 0; i < authors.length; i++) { %>
+      <a href="/authors/<%- i %>"><%- authors[i] %></a>
+    <% } %>
+  </div>
+</nav>
+
+<% var x = 1; %>
+<% news.forEach(function(item){ %>
+  <section class="article">
+      <a href=/items/<%- item.id %>><h2><%- item.titel %></h2></a>
+      <img src="/img/<%- item.afbeelding %>" alt="<%- item.titel %>">
+      <p class="date"><%- item.datum %> <span><%- item.auteur %></span></p>
+      <p class="space"><%- item.samenvatting %></p>
+      <a class="read" href=/items/<%- item.id %>>Read More</a>
+      <hr></hr>
+  </section>
+  <% x++;}); %>
+
+<% include footer %>
